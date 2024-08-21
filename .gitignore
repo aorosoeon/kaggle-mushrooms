@@ -1,0 +1,14 @@
+#ignore all log files
+*.log
+
+#ignore node_modules directory
+node_modules/
+
+#ignore all files in the build directory
+build/
+
+credentials.py
+passwords.py
+*.yaml
+*.txt
+*.csv
